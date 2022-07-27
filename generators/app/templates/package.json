@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "description": "A Simple Sass project example",
   "license": "MIT",
+  "author": {
+    "name" : "Miguel Olave",
+    "email" : "molavec@gmail.com",
+    "url" : "http://molavec.com/"
+  },
+  "homepage": "https://digitalwriters.art",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/molavec/generator-dwart-sass"
+  },
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel --build src/index.html"

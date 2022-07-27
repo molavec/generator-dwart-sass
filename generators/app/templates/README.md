@@ -8,9 +8,13 @@ This project uses [ParcelJS](https://parceljs.org/docs/) to build code.
 
 ## File structure
 
+Just modify code in these files.
+
 ```
-/-- js
-/-- sass
+/-- js/
+------ index.js
+/-- sass/
+------ main.css
 /index.html
 ```
 

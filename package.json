@@ -1,11 +1,19 @@
 {
   "name": "generator-dwart-sass",
   "version": "1.0.0",
-  "description": "Simple Sass project",
+  "description": "Simple Sass project with ParcelJS",
   "main": "index.js",
-  "author": "Miguel Olave C.",
   "license": "MIT",
-  "repository": "https://github.com/molavec/generator-dwart-sass",
+  "author": {
+    "name" : "Miguel Olave",
+    "email" : "molavec@gmail.com",
+    "url" : "http://molavec.com/"
+  },
+  "homepage": "https://digitalwriters.art",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/molavec/generator-dwart-sass"
+  },
   "files": [
     "generators"
   ],
