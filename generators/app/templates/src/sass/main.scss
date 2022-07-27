@@ -1,0 +1,26 @@
+$text-color: #FFFFFF;
+$bg-color: #000000;
+
+body {
+  background-color: $bg-color;
+  color: $text-color;
+  font-family: 'Poppins';
+}
+
+.content {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .text-box {
+    width: 90%;
+    border: 1px $text-color dashed;
+  }
+  h1, p {
+    text-align: center;
+  };
+}
+
+a {
+  color: $text-color;
+}

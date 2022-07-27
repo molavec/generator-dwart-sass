@@ -1,0 +1,27 @@
+{
+  "name": "generator-dwart-sass",
+  "version": "1.0.0",
+  "description": "Simple Sass project",
+  "main": "index.js",
+  "author": "Miguel Olave C.",
+  "license": "MIT",
+  "repository": "https://github.com/molavec/generator-dwart-sass",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "yeoman",
+    "generator",
+    "boilerplate",
+    "sass-generator",
+    "html-generator"
+  ],
+  "devDependencies": {
+    "yeoman-generator": "^5.6.1"
+  },
+  "dependencies": {
+    "chalk": "4.1.2",
+    "yosay": "^2.0.2"
+  }
+}

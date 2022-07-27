@@ -1,0 +1,14 @@
+{
+  "name": "sass-project-example",
+  "version": "1.0.0",
+  "description": "A Simple Sass project example",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel --build src/index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.6.2",
+    "parcel": "^2.6.2"
+  }
+}
